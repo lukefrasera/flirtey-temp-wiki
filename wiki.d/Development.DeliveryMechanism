@@ -1,0 +1,16 @@
+version=pmwiki-2.2.67 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+author=luke
+charset=UTF-8
+csum=creating page first text
+ctime=1407308431
+host=96.38.157.127
+name=Development.DeliveryMechanism
+rev=1
+targets=
+text=This is the central document associated with the Delivery Mechanism documentation and planning.
+time=1407308431
+author:1407308431=luke
+csum:1407308431=creating page first text
+diff:1407308431:1407308431:=1d0%0a%3c This is the central document associated with the Delivery Mechanism documentation and planning.%0a\ No newline at end of file%0a
+host:1407308431=96.38.157.127

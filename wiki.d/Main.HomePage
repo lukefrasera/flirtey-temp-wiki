@@ -1,0 +1,14 @@
+version=pmwiki-2.2.67 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+author=luke
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Main.HomePage
+rev=204
+targets=PmWiki.BasicEditing
+text=(:Summary:Flirtey Wiki Homepage:)%0aWelcome to the Flirtey Wiki!%0a%0aThis wiki is designed to help communicate challenges and fixes associated with the development tasks of Flirtey Drone development.%0a%0aMember of Flirtey will be able to add pages and generate helpful content to aid in the development process and help prevent reoccurring struggles.%0a%0aThe [[PmWiki/basic editing]] page describes how to create pages%0a
+time=1407308108
+author:1407308108=luke
+diff:1407308108:1400472661:=1,7c1,9%0a%3c (:Summary:Flirtey Wiki Homepage:)%0a%3c Welcome to the Flirtey Wiki!%0a%3c %0a%3c This wiki is designed to help communicate challenges and fixes associated with the development tasks of Flirtey Drone development.%0a%3c %0a%3c Member of Flirtey will be able to add pages and generate helpful content to aid in the development process and help prevent reoccurring struggles.%0a%3c %0a---%0a> (:Summary:The default home page for the PmWiki distribution:)%0a> Welcome to PmWiki!%0a> %0a> A local copy of PmWiki's%0a> documentation has been installed along with the software,%0a> and is available via the [[PmWiki/documentation index]].  %0a> %0a> To continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a> %0a8a11,13%0a> in PmWiki.  You can practice editing in the [[wiki sandbox]].%0a> %0a> More information about PmWiki is available from [[http://www.pmwiki.org]].%0a
+host:1407308108=127.0.0.1

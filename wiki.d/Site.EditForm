@@ -1,0 +1,14 @@
+version=pmwiki-2.2.67 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+author=matt
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Site.EditForm
+rev=62
+targets=Profiles.Matt
+text=(:Summary:contains the edit page layout form:)%0a!! $[Editing {*$FullName}] %25block class=wikiaction%25%0a(:messages:)%0a(:div id='wikiedit':)%0a(:input e_form:)[[#top]](:e_guibuttons:)\\%0a(:input e_textarea:)\\%0a$[Summary]: (:input e_changesummary:)\\%0a$[Author]: [[Profiles/{$Author}]] (:input e_minorcheckbox:) $[This is a minor edit]\\%0a(:input e_savebutton:) (:input e_savedraftbutton:) (:input e_saveeditbutton:) (:input e_previewbutton:) (:input e_cancelbutton:)%0a(:input end:)%0a(:divend:)%0a(:include $[{$SiteGroup}/EditQuickReference]:)%0a(:if e_preview:)%0a!! $[Preview {*$FullName}]%0a'''$[Page is unsaved]'''%0a(:e_preview:)%0a----%0a'''$[End of preview -- remember to save]'''\\%0a[[#top | $[Top] ]]%0a(:ifend:)%0a
+time=1407307327
+author:1407307327=matt
+diff:1407307327:1316300652:=8c8%0a%3c $[Author]: [[Profiles/{$Author}]] (:input e_minorcheckbox:) $[This is a minor edit]\\%0a---%0a> $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]\\%0a
+host:1407307327=127.0.0.1
