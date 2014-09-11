@@ -6,10 +6,34 @@ csum=
 ctime=1407308394
 host=96.38.157.127
 name=Development.Development
-rev=1
+rev=9
 targets=
-text=This is the main Development page which hosts all development project. work needs to be done here to make a nice content presentation.
-time=1407308394
+text=This is the main Development page which hosts all development project. work needs to be done here to make a nice content presentation.%0a%0a==Current Projects%0a|| border=.5, style="border-collapse:collapse"%0a||! Project Name ||! Estimated Completion Time ||! Description ||%0a|| Delivery Mechanism || August 25 ||This project will produced a refined delivery mechanism that is production ready and capable of delivering and retrieving packages ||%0a%0a==Past Projects%0a%0a==Resources%0aFlirtey has many resources used for development. Each component ranges from software, mechanical, electrical, and hardware development. Each of the categories apply to the overal drone platform development.%0a%0a===Hardware%0aThe parts of the hardware development will be sectioned off from other components to provide easier access to subsections of the development documentation.%0a%0a===Software%0aSoftware will alongside hardware will be broken out into appropriate subsections under an overal project. Many of the software issues encountered as well as design issues will be documented in this wiki as well as in the relevant repository wikis assciated with a given project. All of the project software development information can be found inside the software section of a projects wiki.
+time=1407396578
+author:1407396578=luke
+diff:1407396578:1407386021:=7d6%0a%3c %0a
+host:1407396578=96.38.157.127
+author:1407386021=luke
+diff:1407386021:1407385962:=4c4,5%0a%3c || border=.5, style="border-collapse:collapse"%0a---%0a> || border=.5%0a> style="border-collapse:collapse"%0a
+host:1407386021=24.182.21.48
+author:1407385962=luke
+diff:1407385962:1407371890:=5d4%0a%3c style="border-collapse:collapse"%0a
+host:1407385962=24.182.21.48
+author:1407371890=luke
+diff:1407371890:1407371553:=2,7d1%0a%3c %0a%3c ==Current Projects%0a%3c || border=.5%0a%3c ||! Project Name ||! Estimated Completion Time ||! Description ||%0a%3c || Delivery Mechanism || August 25 ||This project will produced a refined delivery mechanism that is production ready and capable of delivering and retrieving packages ||%0a%3c ==Past Projects%0a
+host:1407371890=134.197.0.17
+author:1407371553=luke
+diff:1407371553:1407354328:=0a1,3%0a> ==Hell this is a heading%0a> some text is here%0a> ===this is a subsection%0a3,10c6,10%0a%3c ==Resources%0a%3c Flirtey has many resources used for development. Each component ranges from software, mechanical, electrical, and hardware development. Each of the categories apply to the overal drone platform development.%0a%3c %0a%3c ===Hardware%0a%3c The parts of the hardware development will be sectioned off from other components to provide easier access to subsections of the development documentation.%0a%3c %0a%3c ===Software%0a%3c Software will alongside hardware will be broken out into appropriate subsections under an overal project. Many of the software issues encountered as well as design issues will be documented in this wiki as well as in the relevant repository wikis assciated with a given project. All of the project software development information can be found inside the software section of a projects wiki.%0a\ No newline at end of file%0a---%0a> || border=1%0a> || cell 1 || cell 2 || cell 3 ||%0a> || cell 1 || cell 2 ||%0a> * this is  bullet%0a> ** another bullet%0a
+host:1407371553=134.197.0.17
+author:1407354328=jess
+diff:1407354328:1407354180:=1,3d0%0a%3c ==Hell this is a heading%0a%3c some text is here%0a%3c ===this is a subsection%0a
+host:1407354328=134.197.0.23
+author:1407354180=jess
+diff:1407354180:1407354156:=5,7c5%0a%3c || cell 1 || cell 2 ||%0a%3c * this is  bullet%0a%3c ** another bullet%0a---%0a> || cell 1 || cell 2 ||%0a\ No newline at end of file%0a
+host:1407354180=134.197.0.23
+author:1407354156=jess
+diff:1407354156:1407308394:=1,5c1%0a%3c This is the main Development page which hosts all development project. work needs to be done here to make a nice content presentation.%0a%3c %0a%3c || border=1%0a%3c || cell 1 || cell 2 || cell 3 ||%0a%3c || cell 1 || cell 2 ||%0a\ No newline at end of file%0a---%0a> This is the main Development page which hosts all development project. work needs to be done here to make a nice content presentation.%0a\ No newline at end of file%0a
+host:1407354156=134.197.0.23
 author:1407308394=luke
 diff:1407308394:1407308394:=1d0%0a%3c This is the main Development page which hosts all development project. work needs to be done here to make a nice content presentation.%0a\ No newline at end of file%0a
 host:1407308394=96.38.157.127

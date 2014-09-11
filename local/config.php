@@ -8,7 +8,6 @@
 ##  $WikiTitle is the name that appears in the browser's title bar.
 $WikiTitle = 'Flirtey Wiki';
 
-
 ## AuthUser creation
 include_once("$FarmD/scripts/authuser.php");
 $Author = $AuthId;
@@ -32,7 +31,8 @@ $PageLogoUrl = "/flirteylogo.png";
 ## If you want to have a custom skin, then set $Skin to the name
 ## of the directory (in pub/skins/) that contains your skin files.
 ## See PmWiki.Skins and Cookbook.Skins.
-# $Skin = 'pmwiki';
+$Skin = 'blix';
+#$Skin = 'monobook';
 
 ## You'll probably want to set an administrative password that you
 ## can use to get into password-protected pages.  Also, by default 

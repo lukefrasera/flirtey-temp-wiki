@@ -1,15 +1,18 @@
 version=pmwiki-2.2.67 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
-author=luke
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=matt
 charset=UTF-8
-csum=creating page first text
+csum=
 ctime=1407308431
-host=96.38.157.127
+host=94.23.77.240
 name=Development.DeliveryMechanism
-rev=1
+rev=2
 targets=
-text=This is the central document associated with the Delivery Mechanism documentation and planning.
-time=1407308431
+text=This is the central document associated with the Delivery Mechanism documentation and planning.%0a%0aTest
+time=1407310020
+author:1407310020=matt
+diff:1407310020:1407308431:=1,3c1%0a%3c This is the central document associated with the Delivery Mechanism documentation and planning.%0a%3c %0a%3c Test%0a\ No newline at end of file%0a---%0a> This is the central document associated with the Delivery Mechanism documentation and planning.%0a\ No newline at end of file%0a
+host:1407310020=94.23.77.240
 author:1407308431=luke
 csum:1407308431=creating page first text
 diff:1407308431:1407308431:=1d0%0a%3c This is the central document associated with the Delivery Mechanism documentation and planning.%0a\ No newline at end of file%0a
